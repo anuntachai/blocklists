@@ -1,3 +1,5 @@
+# File url : https://raw.githubusercontent.com/anuntachai/blocklists/main/blocklist.txt
+
 # ----- Scam ------
 
 pancakeswap.com
