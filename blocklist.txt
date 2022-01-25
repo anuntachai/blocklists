@@ -10,3 +10,7 @@ uniswap-org.lpages.co
 uniswap-home.seshiswaps.site
 seshiswaps.site
 
+# ----- Phishing ------
+
+booctstrap.com
+ded4950.inmotionhosting.com
